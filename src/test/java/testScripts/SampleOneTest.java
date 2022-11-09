@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 		@Test(groups="featureTwo")
 		  public void searchJenkinsTest() {
 			 System.out.println("Jenkins Test");
+			 System.out.println("Modified for Github intgr.....")
 		  }
 		@Test
 		  public void searchMavenTest() {
